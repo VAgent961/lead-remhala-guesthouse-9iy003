@@ -1,2 +1,9 @@
-# lead-remhala-guesthouse-9iy003
-Website built by V-Agent Web Development team
+# Remhala guesthouse
+
+Built by the V-Agent Web Development team.
+
+Next.js 14 (App Router) + Tailwind CSS.
+
+```bash
+npm install
+npm run dev

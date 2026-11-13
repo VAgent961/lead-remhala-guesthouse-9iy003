@@ -1,0 +1,29 @@
+{
+  "siteName": "Remhala guesthouse",
+  "description": "Experience the charm of Remhala Guesthouse in the heart of the Chouf mountains. A rustic escape featuring authentic Lebanese hospitality.",
+  "lang": "en",
+  "colors": {
+    "primary": "#5D4037",
+    "secondary": "#8D9E71",
+    "accent": "#D4A373",
+    "background": "#FDFBF7",
+    "surface": "#FFFFFF",
+    "ink": "#2C2C2C",
+    "muted": "#A0A0A0",
+    "dark": "#1A1A1A"
+  },
+  "fonts": {
+    "heading": "Playfair Display",
+    "body": "Inter"
+  },
+  "extend": {
+    "colors": {},
+    "fontFamily": {},
+    "fontSize": {},
+    "spacing": {},
+    "borderRadius": {},
+    "boxShadow": {}
+  },
+  "extraCss": "",
+  "iconFont": ""
+}
